@@ -6,7 +6,7 @@
 # Code Fellows Journey
 **About Ian**
 
-Hi, I'm Ian! 24 (He/Him) :smiley:
+Hi, I'm Ian! 24 (He/Him)
 
 I was born and raised in Nashville, TN. I was a paratrooper in the army for almost 6 years until I was injured on a jump. I Found out about Coding Bootcamps through a friend that had recently attended one. Thinking about how long I'd been interested in the prospect of coding I decided to jump in using VETTEC. The rest is future history.
 
