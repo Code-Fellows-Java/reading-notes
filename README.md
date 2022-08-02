@@ -25,3 +25,10 @@ The ability to overcome obstacles has always been a trademark of humanity. From 
 
 
 
+## DAY 1
+- MarkDown: A simplistic User friendly language used to edit sites without HTML or CSS. [Link to MarkDown info.](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+- Text-Editors: Applications to assist you in everyday code writing. VS Code, Sublime, Atom etc..
+
+## Terminal Cheat sheet
+
+![This is an Image](https://preview.redd.it/70lk4mhwjsg21.jpg?width=640&crop=smart&auto=webp&s=96fd362d412ceef025f5a0f956905a43838bd930)
