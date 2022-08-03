@@ -19,7 +19,7 @@ The ability to overcome obstacles has always been a trademark of humanity. From 
 - Give everything you have available to you in order to solve the problem, you will regret the lack of persistence in the end.
 
 ## Table of Contents
-- Link to my [github/IanMcshoe.](https://github.com/IanMcshoe)                    
+- [github/IanMcshoe.](https://github.com/IanMcshoe)                    
 - [Day 1](https://ianmcshoe.github.io/Reading-Cont./)
 - [Day 2]
 - [Day 3]
