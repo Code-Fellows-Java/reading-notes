@@ -20,6 +20,6 @@ The ability to overcome obstacles has always been a trademark of humanity. From 
 
 ## Table of Contents
 - [github/IanMcshoe.](https://github.com/IanMcshoe)                    
-- [Day 1](https://ianmcshoe.github.io/reading-notes/Day-1)
-- [Day 2](https://ianmcshoe.github.io/reading-notes/Day-2)
-- [Day 3]
+- [Day 1](Day-1.md)
+- [Day 2](Day-2.md)
+- [Day 3]()
