@@ -10,7 +10,8 @@ Hi, I'm Ian! 24 (He/Him)
 
 I was born and raised in Nashville, TN. I was a paratrooper in the army for almost 6 years until I was injured on a jump. I Found out about Coding Bootcamps through a friend that had recently attended one. Thinking about how long I'd been interested in the prospect of coding I decided to jump in using VETTEC. The rest is future history.
 
-Link to my [github.](https://github.com/IanMcshoe)
+Link to my [github.](https://github.com/IanMcshoe)                    
+Link to [Notes](https://ianmcshoe.github.io/Reading-Cont./)
 
 ## My Growth mindset
 
@@ -22,16 +23,3 @@ The ability to overcome obstacles has always been a trademark of humanity. From 
 - Look at obstacles as an area for growth.
 - Accept failure for what it is, a lesson.
 - Give everything you have available to you in order to solve the problem, you will regret the lack of persistence in the end.
-
-
-
-## DAY 1
-- MarkDown: A simplistic User friendly language used to edit sites without HTML or CSS. [Link to MarkDown info.](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
-- Text-Editors: Applications to assist you in everyday code writing. VS Code, Sublime, Atom etc..
-- Setting up The Coder's Computer
-
-## Terminal Cheat sheet
-
-![This is an Image](https://preview.redd.it/70lk4mhwjsg21.jpg?width=640&crop=smart&auto=webp&s=96fd362d412ceef025f5a0f956905a43838bd930)
-
-test 
