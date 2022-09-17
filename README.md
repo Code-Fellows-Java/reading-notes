@@ -12,9 +12,7 @@ I was born and raised in Nashville, TN. I was a paratrooper in the army for almo
 
 
 ## Table of Contents
-- [github/IanMcshoe.](https://github.com/IanMcshoe)                    
-- [Day 1](Day-1.md)
-- [Day 2](Day-2.md)
-- [Day 3](Day-3.md)
-- [Day 4](Day-4.md)
-- [Day 5](Day-5.md)
+- [102 Notes](https://ianmcshoe.github.io/reading-notes/)                    
+- [201 Notes](https://ianmcshoe.github.io/Class-201-Reading-Notes/)
+- [301 Notes](https://ianmcshoe.github.io/Class-301/)
+
